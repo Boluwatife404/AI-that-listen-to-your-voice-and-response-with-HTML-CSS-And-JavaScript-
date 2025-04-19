@@ -1,0 +1,16 @@
+body {
+    background: black;
+    color: cyan;
+    font-family: monospace;
+    text-align: center;
+    margin-top: 100px;
+}
+
+#btn {
+    padding: 15px 30px;
+    font-size: 20px;
+    background: cyan;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
